@@ -1,0 +1,11 @@
+xwife
+-----
+cross platform wifi executable
+
+This depends on xwlan. See |https://github.com/bharatvaj/xwlan.git|
+
+This will be responsible for handling config files and user wifi
+
+BUILD
+-----
+make
